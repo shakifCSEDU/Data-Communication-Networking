@@ -1,0 +1,1 @@
+Implement Hamming code (n, k) where k is the message length and n is the code length.

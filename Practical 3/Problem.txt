@@ -1,0 +1,7 @@
+Develop an encoder and a decoder for 2B1Q, MLT-3 and scrambling (B8ZS, HDB3) as per following specification.
+
+Encoding:
+Write a program that takes a bitstream from a file as an input and produces a sequence of voltage levels (e.g. +5V, -5V, 0V, or any suitable voltage levels) as an output on a file.
+
+Decoding:
+This program takes voltage levels (as produced in encoding simulation) as input (from a file) and produces corresponding bit streams. Print error messages if it can't decode the input for a particular scheme

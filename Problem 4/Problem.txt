@@ -1,0 +1,1 @@
+Consider a bit stream, add two dimensional parity with the bit stream. Encode the bit stream with HDB3 scheme. On the receiving end, decode and check whether the received data is correct or not. You have to use socket programming where sender may be a client and receiver is a server.
